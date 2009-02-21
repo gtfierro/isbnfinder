@@ -1,0 +1,4 @@
+ISBNfinder needs work! Right now, its just a Python script. Pop it into a directory (/bin works best for mac os x...not so sure about linux or windows) and type "sudo chmod +x /bin/isbnfinder" then "isbnfinder -h" to find out how to use it. Usage is pretty straightforward. Just make sure that when using options such as -a (author), use quotes to enclose multiple words. 
+
+Todo:
+Interfacing with easybib.com in order to get a bibliographic citation from the program. Not quite sure how to do that, so any help would be greatly appreciated.
